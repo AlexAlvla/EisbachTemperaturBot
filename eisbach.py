@@ -16,6 +16,8 @@ class Eisbach:
         one_a_tag = one_a_tag.split(">")[1]
         one_a_tag = one_a_tag.split("<")[0]
         
-        self.temperatur = one_a_tag
+        if(one_a_tag != "--"):
+            self.temperatur = one_a_tag
+
 
         return str(self.temperatur)
