@@ -1,6 +1,6 @@
 # EisbachTemperaturBot
 - Warum?
-Sobald du dir denkst: "Ist der Eisbach gerade zu kalt zum schwimmen oder nicht?" kommt dieser Bot zu Verwendung
+1. Sobald du dir denkst: "Ist der Eisbach gerade zu kalt zum schwimmen oder nicht?" kommt dieser Bot zu Verwendung
 
 - Wie funktioniert dieser Bot?
 1. Du verbindest dich erstmal mit ihm über diesen Link: https://t.me/eisbachtempbot
