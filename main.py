@@ -5,7 +5,7 @@
 #############################
 
 from telegram import Update, Bot
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
+from telegram.ext import Updater, CommandHandler
 from credits import bot_token
 import eisbach
 
